@@ -61,7 +61,8 @@ You can download it directly from [MovieLens](https://www.kaggle.com/datasets/ga
 ---
 
 ## 📸 Demo  
-![Demo](https://github.com/Mors666/Movie_Recommendation_System/blob/main/0_Resources/Movie_Recomm_GIF.gif?raw=true) 
+<img src="0_Resources/Movie_Recomm_GIF.gif" width="70%" />
+
 
 ---
 
